@@ -7,7 +7,7 @@ public class Remo {
 	@Test
 	public void b()
 	{
-		Reporter.log("Remo class method",true);
+		Reporter.log("good afternoon",true);
 	}
 
 }
