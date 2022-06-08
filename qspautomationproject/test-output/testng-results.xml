@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[ft1]]>
+    </line>
+    <line>
+      <![CDATA[ft2]]>
+    </line>
+    <line>
+      <![CDATA[ft3]]>
+    </line>
+    <line>
+      <![CDATA[ft4]]>
+    </line>
+    <line>
+      <![CDATA[ft5]]>
+    </line>
+    <line>
+      <![CDATA[ft6]]>
+    </line>
+    <line>
+      <![CDATA[it1]]>
+    </line>
+    <line>
+      <![CDATA[it2]]>
+    </line>
+    <line>
+      <![CDATA[it3]]>
+    </line>
+    <line>
+      <![CDATA[it4]]>
+    </line>
+    <line>
+      <![CDATA[it5]]>
+    </line>
+    <line>
+      <![CDATA[it6]]>
+    </line>
+    <line>
+      <![CDATA[st1]]>
+    </line>
+    <line>
+      <![CDATA[st2]]>
+    </line>
+    <line>
+      <![CDATA[st3]]>
+    </line>
+    <line>
+      <![CDATA[st4]]>
+    </line>
+    <line>
+      <![CDATA[st5]]>
+    </line>
+    <line>
+      <![CDATA[st6]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-06T15:41:53 CHAST" name="Suite" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="55">
+    <groups>
+      <group name="INTEGRATION">
+        <method signature="Grouping.it1()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="it1" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.it2()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="it2" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.it3()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="it3" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.it4()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="it4" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.it5()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="it5" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.it6()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="it6" class="qsp.TestNGPack.Grouping"/>
+      </group> <!-- INTEGRATION -->
+      <group name="FUNCTIONAL">
+        <method signature="Grouping.ft1()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="ft1" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.ft2()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="ft2" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.ft3()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="ft3" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.ft4()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="ft4" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.ft5()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="ft5" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.ft6()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="ft6" class="qsp.TestNGPack.Grouping"/>
+      </group> <!-- FUNCTIONAL -->
+      <group name="SMOKE">
+        <method signature="Grouping.st1()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="st1" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.st2()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="st2" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.st3()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="st3" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.st4()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="st4" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.st5()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="st5" class="qsp.TestNGPack.Grouping"/>
+        <method signature="Grouping.st6()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" name="st6" class="qsp.TestNGPack.Grouping"/>
+      </group> <!-- SMOKE -->
+    </groups>
+    <test started-at="2022-06-06T15:41:53 CHAST" name="Test" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="55">
+      <class name="qsp.TestNGPack.Grouping">
+        <test-method signature="ft1()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="ft1" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ft1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft1 -->
+        <test-method signature="ft2()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="ft2" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ft2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft2 -->
+        <test-method signature="ft3()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="ft3" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ft3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft3 -->
+        <test-method signature="ft4()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="ft4" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ft4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft4 -->
+        <test-method signature="ft5()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="ft5" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ft5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft5 -->
+        <test-method signature="ft6()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="ft6" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ft6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft6 -->
+        <test-method signature="it1()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="it1" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[it1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it1 -->
+        <test-method signature="it2()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="it2" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[it2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it2 -->
+        <test-method signature="it3()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="it3" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[it3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it3 -->
+        <test-method signature="it4()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="it4" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[it4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it4 -->
+        <test-method signature="it5()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="it5" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[it5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it5 -->
+        <test-method signature="it6()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="it6" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[it6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it6 -->
+        <test-method signature="st1()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="st1" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[st1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st1 -->
+        <test-method signature="st2()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="st2" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[st2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st2 -->
+        <test-method signature="st3()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="st3" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[st3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st3 -->
+        <test-method signature="st4()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="st4" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[st4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st4 -->
+        <test-method signature="st5()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="st5" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[st5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st5 -->
+        <test-method signature="st6()[pri:0, instance:qsp.TestNGPack.Grouping@44821a96]" started-at="2022-06-06T15:41:53 CHAST" name="st6" finished-at="2022-06-06T15:41:53 CHAST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[st6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st6 -->
+      </class> <!-- qsp.TestNGPack.Grouping -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

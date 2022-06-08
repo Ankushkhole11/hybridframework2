@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+		<groups>
+<!-- define used to give the name-->
+           <define name="ActitimeTestCase">
+              <include name="FUNCTIONAL"></include>
+              <include name="SMOKE"></include>
+              <include name="INTEGRATION"></include>
+
+           </define>
+
+<!--  this is for running the group, those group present in run this will be executed only         -->
+           <run>
+              <include name="FUNCTIONAL"></include>
+              <include name="INTEGRATION"></include>
+              <include name="SMOKE"></include>
+           </run>
+		</groups>
+
+
+
+
+		<classes>
+		      <class name="qsp.TestNGPack.Grouping"/>
+		</classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
